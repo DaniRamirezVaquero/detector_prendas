@@ -11,6 +11,9 @@ El modelo de clasificación utilizado es una red neuronal convolucional (CNN) en
 3. Esperar a que el modelo realice la predicción.
 4. Ver la predicción realizada por el modelo.
 
+## Apliación web
+![App 🌐](https://detectorprendas.streamlit.app/)
+
 ## Instalación
 1. Clonar el repositorio.
 2. Levantar el entorno dockerizado con el comando `docker-compose up`.
