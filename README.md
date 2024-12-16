@@ -3,7 +3,7 @@
 ## Descripción
 Aplicación web realizada con Streamlit que permite clasificar imágenes de prendas de ropa en 10 categorías diferentes. 
 
-El modelo de clasificación utilizado es una red neuronal convolucional (CNN) entrenada con el dataset Fashion MNIST.
+El modelo de clasificación utilizado es una red neuronal convolucional (CNN) entrenada con el dataset [Fashion MNIST](https://www.kaggle.com/datasets/zalando-research/fashionmnist).
 
 ## Instrucciones de uso
 1. Subir una imagen de una prenda de ropa.
