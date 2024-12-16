@@ -10,6 +10,9 @@ model = keras.models.load_model('./model/fashion_mnist.keras')
 classes = ["Camiseta/Top", "Pantalón", "Suéter", "Vestido", "Abrigo",
            "Sandalia", "Camisa", "Zapatilla", "Bolso", "Botas"]
 
+# Configuración de la página
+st.set_page_config(page_title="Clasificación de Prendas - Fashion MNIST", page_icon="👗")
+
 # Título de la aplicación
 st.title("Clasificación de Prendas - Fashion MNIST")
 
